@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\WORK\FelphiProjects\mwgate\Project1.dproj=C:\WORK\FelphiProjects\mwgate\mwgate.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,C:\WORK\FelphiProjects\mwgate\Unit1.dfm=C:\WORK\FelphiProjects\mwgate\mwgate.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\WORK\FelphiProjects\mwgate\mwgate.pas=C:\WORK\FelphiProjects\mwgate\mwgatemain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\WORK\FelphiProjects\mwgate\mwgate.dfm=C:\WORK\FelphiProjects\mwgate\mwgatemain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,=C:\WORK\FelphiProjects\mwgate\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,C:\WORK\FelphiProjects\mwgate\Unit1.pas=C:\WORK\FelphiProjects\mwgate\mwgate.pas</Transaction>
+  </Transactions>
+</BorlandProject>
